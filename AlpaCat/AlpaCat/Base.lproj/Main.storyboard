@@ -394,7 +394,18 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="gRN-Lf-FNF"/>
+                    <navigationItem key="navigationItem" id="gRN-Lf-FNF">
+                        <barButtonItem key="rightBarButtonItem" style="plain" id="DKa-zd-pkQ">
+                            <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="rIf-aJ-0qc">
+                                <rect key="frame" x="276" y="7" width="83" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Search"/>
+                                <connections>
+                                    <segue destination="R5P-NG-xQY" kind="show" id="yM1-pc-fvd"/>
+                                </connections>
+                            </button>
+                        </barButtonItem>
+                    </navigationItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9sK-ea-ord" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -1165,7 +1176,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="N7j-6O-VOJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1276" y="-263.11844077961024"/>
+            <point key="canvasLocation" x="-1951" y="-233"/>
         </scene>
         <!--검색 지도-->
         <scene sceneID="UJ3-Kn-zqr">
@@ -1262,9 +1273,6 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Search"/>
                             </button>
-                            <connections>
-                                <segue destination="fue-Ou-RHW" kind="push" id="OR5-NI-zND"/>
-                            </connections>
                         </barButtonItem>
                     </navigationItem>
                     <tabBar key="tabBar" contentMode="scaleToFill" id="c9q-Vd-sVs">
@@ -1794,29 +1802,10 @@
             </objects>
             <point key="canvasLocation" x="-343.19999999999999" y="-263.11844077961024"/>
         </scene>
-        <!--Navigation Controller-->
-        <scene sceneID="mh6-zx-eT3">
-            <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="fue-Ou-RHW" sceneMemberID="viewController">
-                    <toolbarItems/>
-                    <navigationItem key="navigationItem" id="LWa-FD-8Mi"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="ivS-3R-ipm">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
-                        <autoresizingMask key="autoresizingMask"/>
-                    </navigationBar>
-                    <nil name="viewControllers"/>
-                    <connections>
-                        <segue destination="R5P-NG-xQY" kind="relationship" relationship="rootViewController" id="qR9-uT-SER"/>
-                    </connections>
-                </navigationController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="efc-M3-gP6" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-2215.1999999999998" y="-263.11844077961024"/>
-        </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="TXR-os-IAY"/>
-        <segue reference="lSf-vI-rWQ"/>
-        <segue reference="JqG-ML-dho"/>
+        <segue reference="PVh-hh-J5E"/>
+        <segue reference="t5u-QC-fvl"/>
+        <segue reference="oRc-W8-erf"/>
     </inferredMetricsTieBreakers>
 </document>
