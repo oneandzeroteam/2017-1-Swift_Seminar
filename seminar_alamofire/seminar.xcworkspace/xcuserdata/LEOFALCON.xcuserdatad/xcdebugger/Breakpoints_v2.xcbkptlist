@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seminar/ViewController.swift"
+            timestampString = "516524182.679054"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seminar.ViewController.((fetchPosts in _581E2E10A7AA1D3DE35BEF9003E439D6) () -&gt; ()).(closure #1)"
+                  moduleName = "seminar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LEOFALCON/Documents/2017_Spring/iOS/seminar_alamofire/seminar/ViewController.swift"
+                  timestampString = "516524183.917474"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "517">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seminar.ViewController.((fetchPosts in _581E2E10A7AA1D3DE35BEF9003E439D6) () -&gt; ()).(closure #1).(implicit closure #1)"
+                  moduleName = "seminar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LEOFALCON/Documents/2017_Spring/iOS/seminar_alamofire/seminar/ViewController.swift"
+                  timestampString = "516524183.920479"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "seminar/ViewController.swift"
+            timestampString = "516524182.679054"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seminar.ViewController.((fetchPosts in _581E2E10A7AA1D3DE35BEF9003E439D6) () -&gt; ()).(closure #1)"
+                  moduleName = "seminar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LEOFALCON/Documents/2017_Spring/iOS/seminar_alamofire/seminar/ViewController.swift"
+                  timestampString = "516524183.92748"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "517">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seminar.ViewController.((fetchPosts in _581E2E10A7AA1D3DE35BEF9003E439D6) () -&gt; ()).(closure #1).(implicit closure #1)"
+                  moduleName = "seminar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LEOFALCON/Documents/2017_Spring/iOS/seminar_alamofire/seminar/ViewController.swift"
+                  timestampString = "516524183.930042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movieTableViewController.swift"
+            timestampString = "516523867.215032"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
